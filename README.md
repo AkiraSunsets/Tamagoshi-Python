@@ -1,1 +1,1 @@
-# Tamagoshi-Python
+# Tamagoshi
